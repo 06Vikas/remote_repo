@@ -1,1 +1,2 @@
 First line in file by dev A
+This line is added by dev B
